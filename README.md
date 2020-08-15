@@ -1,1 +1,2 @@
-# hw-c37
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
