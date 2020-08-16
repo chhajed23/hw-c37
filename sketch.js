@@ -26,7 +26,7 @@ function setup() {
 
 function draw() {
   background(0,0,0);  
-  camera.y=movingRect.y;
+  camera.position.y=movingRect.y;
   bounceOff(movingRect,fixedRect);
   bounceOff(go1,go2);
 
